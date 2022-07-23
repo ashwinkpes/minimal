@@ -8,7 +8,7 @@ Sample website to showcase usage of Angular, ASP.NET Core to create Microservice
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/ashwinkpes/PractiseAngular)
 
-<center><img src="images/Microservices.png"/></center>
+<center><img src="assets/img/Microservices.png"/></center>
 
 ## Azure cloud
 ## OPC
